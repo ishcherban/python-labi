@@ -8,3 +8,6 @@ def average(x, y):
     for i in range(x, y + 1):
         result += i
     return result / (y - x + 1)
+
+print(f'z(15): {z(15)}')
+print(f'average from 1 to 15: {average(1,15)}')
