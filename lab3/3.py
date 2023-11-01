@@ -1,4 +1,4 @@
 def func(string):
     return string.replace('b', 'c')
 
-print(func("butterfly"))
+print('Result: ' + func("butterfly"))

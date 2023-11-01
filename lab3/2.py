@@ -9,4 +9,4 @@ def func(string):
     
     return ''.join(result)
 
-print(func("ttessst strrriingg"))
+print('Result: ' + func("ttessst strrriingg"))
