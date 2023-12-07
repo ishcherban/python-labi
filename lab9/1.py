@@ -29,6 +29,6 @@ def print_file():
     except:
         print('Файла TF19_2.txt не існує!')
 
-#create_file()
-#process_file()
+create_file()
+process_file()
 print_file()
